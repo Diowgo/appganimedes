@@ -1,0 +1,15 @@
+{
+  "name": "appganimedes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^3.3.3"
+  }
+}
